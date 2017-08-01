@@ -1,5 +1,5 @@
 # UNITHON-5TH
-[UNITHON-5TH] 2017-07-28 ~ 2017-07-30
+[UNITHON-5TH] 2017-07-28(금) ~ 2017-07-30(일)
 
 **'여정'** is an application utilizing the **[tour API(3.0)](http://api.visitkorea.or.kr/main.do)** of 한국관광공사
 After selecting the area, you can easily check out the results by simply selecting the '맛집', '숙박', and '명소' in a tinder style.
@@ -17,9 +17,9 @@ After selecting the area, you can easily check out the results by simply selecti
 
 ## Getting Start (server)
 **Server** is based on Node(Express Framework)
-node v8.1.4
-Express v4.15
-mongodb
+- node v8.1.4
+- Express v4.15
+- mongodb
 
 ```bash
 cd ~/work/UNITHON-5TH/server
@@ -45,8 +45,8 @@ npm start
 
 ## Getting start (client)
 **Client** is based on **[ReactNative](https://facebook.github.io/react-native/docs/getting-started.html)**
-node v6.6.0
-react-native v0.46
+- node v6.6.0
+- react-native v0.46
 
 ```bash
 cd ~/work/UNITHON-5TH/client
